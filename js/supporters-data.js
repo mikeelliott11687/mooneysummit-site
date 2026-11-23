@@ -1,0 +1,296 @@
+/* Supporter list rendered by js/supporters.js. Same content as data/supporters.json. */
+window.SUMMIT_SUPPORTERS = {
+  "generated": "2026-11-23",
+  "groups": [
+    {
+      "id": "sponsors-xii",
+      "category": "Sponsors",
+      "title": "Summit XII sponsors",
+      "intro": "Confirmed so far for Tampa. Sponsorship levels for some of these partners are still to be confirmed.",
+      "layout": "cards",
+      "empty": "No Summit XII sponsors are listed yet.",
+      "entries": [
+        {
+          "name": "Atlas Aviation",
+          "note": "Host FBO for Airport Day at Peter O. Knight Airport (KTPF), with special discounts for Summit participants.",
+          "logo": "img/logos/atlas-aviation-convertedsm.png",
+          "url": "https://atlasaviation.com/"
+        },
+        {
+          "name": "Kelly Aerospace",
+          "note": "BBQ sponsor, Airport Day, Thursday, September 23.",
+          "logo": "img/logos/kelly-aerospace-logo.png",
+          "url": "https://kellyaerospace.com/"
+        },
+        {
+          "name": "National Business Aviation Association (NBAA)",
+          "note": "Summit XII partner.",
+          "logo": "img/logos/nbaa-logo.png",
+          "url": "https://nbaa.org/"
+        },
+        {
+          "name": "Lightspeed Aviation",
+          "note": "Summit XII partner.",
+          "logo": "img/logos/logo_lightspeed-dark.png",
+          "url": "https://www.lightspeedaviation.com/"
+        },
+        {
+          "name": "WingView Tint SRQ",
+          "note": "Summit XII sponsor.",
+          "logo": "img/logos/wingview-tint-srq-logo.png",
+          "url": "https://wingviewtintsrq.com/"
+        },
+        {
+          "name": "Real Clean, Tampa Bay",
+          "note": "Summit XII sponsor.",
+          "logo": "img/logos/realclean-logo.png",
+          "url": "https://www.realcleanaircraft.com/aircraft-detailing/locations/tampa-bay/"
+        },
+        {
+          "name": "Tampa International Airport, Hillsborough County Aviation Authority (HCAA)",
+          "note": "Facilities at Peter O. Knight Airport (KTPF) and the Tampa International Airport conference center, plus event support.",
+          "logo": "img/logos/tpf.png",
+          "url": "https://www.tampaairport.com/business/general-aviation/peter-o-knight-airport"
+        },
+        {
+          "name": "Mooney Pros, Inc.",
+          "note": "Contributing the wine and beer for the event.",
+          "logo": "img/logos/mooney-pros-logo.png",
+          "url": "https://www.mooneypros.com/"
+        }
+      ]
+    },
+    {
+      "id": "sponsors-past",
+      "category": "Sponsors",
+      "title": "Past sponsors and exhibitors",
+      "intro": "Named as Summit XI sponsors or exhibitors on the previous site, and not already listed above as confirmed for Summit XII.",
+      "layout": "tiles",
+      "empty": "No additional past sponsors are listed.",
+      "entries": [
+        {
+          "name": "Aerox",
+          "note": "Summit XI: Saturday breakfast sponsorship, exhibitor, presenter, and event support.",
+          "logo": "img/logos/aerox-logo_002.png",
+          "url": "https://www.aerox.com/"
+        },
+        {
+          "name": "MooneyMover",
+          "note": "Summit XI: silent auction donation and event support.",
+          "logo": "img/logos/mooneymover-logo.png",
+          "url": "https://mooneymover.com/"
+        },
+        {
+          "name": "Oasis Aero",
+          "note": "Named as a Summit XI sponsor, together with Weep no More, LLC. The previous page listed the sponsorship detail as TBD.",
+          "logo": "img/logos/oasis-aero-logo.png",
+          "url": "https://oasisaero.com/"
+        },
+        {
+          "name": "Premier Aircraft",
+          "note": "Named as a Summit XI sponsor. The previous page listed the sponsorship detail as TBD.",
+          "logo": "img/logos/premier-aircraft-logo.png",
+          "url": "https://premieraircraft.com/"
+        },
+        {
+          "name": "Weep no More, LLC",
+          "note": "Named as a Summit XI sponsor, together with Oasis Aero. The previous page listed the sponsorship detail as TBD.",
+          "logo": "img/logos/weep-no-more-logo.png",
+          "url": "https://weepnomorellc.com/"
+        }
+      ]
+    },
+    {
+      "id": "silent-auction",
+      "category": "Silent auction donors",
+      "title": "Summit XII silent auction donors",
+      "intro": "These names come from the Mooney Summit XII Silent Auction Items sheet (Donor, Auction Item, Approximate Value). The sheet had no item rows when it was read on Monday, Nov 23, 2026, at 7:58 AM ET. Approximate values and donor contact details are not shown here.",
+      "layout": "tiles",
+      "empty": "No Summit XII silent auction items are listed yet. When Mike and the board add rows to the Silent Auction Items sheet, those donors will appear here. Public link sharing on the sheet is still off, so this preview cannot read the sheet live. See the README for how to refresh the baked-in list.",
+      "entries": []
+    },
+    {
+      "id": "silent-auction-past",
+      "category": "Silent auction donors",
+      "title": "Past silent auction donors",
+      "intro": "Companies and people named as silent auction donors on the previous live Summit site (Summit XI, and the earlier Sponsors/Raffle/Silent Auction page). They are listed here so we can thank them. They are not confirmed as Summit XII donors until they appear on the new sheet.",
+      "layout": "tiles",
+      "empty": "No past silent auction donors are listed.",
+      "entries": [
+        {
+          "name": "Aerox",
+          "note": "Summit XI: two oxygen systems. The earlier page also listed Aerox as TBD.",
+          "logo": "img/logos/aerox-logo_002.png",
+          "url": "https://www.aerox.com/"
+        },
+        {
+          "name": "Bose",
+          "note": "Summit XI: A30 Aviation headset.",
+          "logo": "img/logos/bose_logo.png",
+          "url": "https://www.bose.com/c/aviation-headsets"
+        },
+        {
+          "name": "CAV Systems",
+          "note": "Summit XI: 55 gallon drum of TKS fluid, plus shipping.",
+          "logo": "img/logos/cav-logo.png",
+          "url": "https://www.cav-systems.com/"
+        },
+        {
+          "name": "Concorde",
+          "note": "Summit XI: battery. The earlier page listed a battery certificate.",
+          "logo": "img/logos/logo-concorde.png",
+          "url": "https://www.concordebattery.com/"
+        },
+        {
+          "name": "International Avionics, Inc. (IAI)",
+          "note": "The earlier sponsors-copy page listed an FS450 fuel totalizer. The later XI sponsors page listed this item as TBD.",
+          "logo": "img/logos/iai-logo-cropped.jpg",
+          "url": "https://www.internationalavionics.com/"
+        },
+        {
+          "name": "Lightspeed",
+          "note": "Summit XI: Delta Zulu headset.",
+          "logo": "img/logos/logo_lightspeed-dark.png",
+          "url": "https://www.lightspeedaviation.com/"
+        },
+        {
+          "name": "McFarlane Aviation Products",
+          "note": "Named as a Summit XI silent auction donor, with the item listed as TBD.",
+          "logo": "img/logos/mcfarlane-logo.png",
+          "url": "https://www.mcfarlaneaviation.com/"
+        },
+        {
+          "name": "MooneyMover",
+          "note": "Summit XI: MooneyMover electric tug.",
+          "logo": "img/logos/mooneymover-logo.png",
+          "url": "https://mooneymover.com/"
+        },
+        {
+          "name": "National Business Aviation Association (NBAA)",
+          "note": "Summit XI: two chances at a VIP ticket plus guest to an NBAA regional event in Florida. The previous live page still said February 2025.",
+          "logo": "img/logos/nbaa-logo.png",
+          "url": "https://nbaa.org/"
+        },
+        {
+          "name": "Oasis Aero",
+          "note": "Summit XI: annual inspection.",
+          "logo": "img/logos/oasis-aero-logo.png",
+          "url": "https://oasisaero.com/"
+        },
+        {
+          "name": "RPM Aircraft Service",
+          "note": "Summit XI: oil and filter change at RPM Aircraft Service in Gaithersburg, MD (KGAI).",
+          "logo": "img/logos/rpm-aircraft-service-logo.jpg",
+          "url": "https://www.flyrpm.com/"
+        },
+        {
+          "name": "Signature Aviation",
+          "note": "Summit XI: two $500 AvGas gift certificates, for use at Signature locations.",
+          "logo": "img/logos/signature-aviation.png",
+          "url": "https://www.signatureaviation.com/"
+        },
+        {
+          "name": "Smart Avionics",
+          "note": "Summit XI: pitot static inspection.",
+          "logo": "img/logos/smart-avionics-logo.png",
+          "url": "https://smart-avionics.com/"
+        }
+      ]
+    },
+    {
+      "id": "raffle",
+      "category": "Raffle donors",
+      "title": "Summit XII raffle donors",
+      "intro": "These names come from the Mooney Summit XII Raffle Items sheet (Donor, Raffle Prize, Approximate Value). The sheet had no prize rows when it was read on Monday, Nov 23, 2026, at 7:58 AM ET. Approximate values and donor contact details are not shown here.",
+      "layout": "tiles",
+      "empty": "No Summit XII raffle prizes are listed yet. When Mike and the board add rows to the Raffle Items sheet, those donors will appear here. Public link sharing on the sheet is still off, so this preview cannot read the sheet live. See the README for how to refresh the baked-in list.",
+      "entries": []
+    },
+    {
+      "id": "raffle-past",
+      "category": "Raffle donors",
+      "title": "Past raffle donors",
+      "intro": "Companies and people named as raffle donors on the previous live Summit site (Summit XI, and the earlier Sponsors/Raffle/Silent Auction page). They are listed here so we can thank them. They are not confirmed as Summit XII donors until they appear on the new sheet.",
+      "layout": "tiles",
+      "empty": "No past raffle donors are listed.",
+      "entries": [
+        {
+          "name": "Aircraft Spruce",
+          "note": "Named as a Summit XI raffle donor, with the prize listed as TBD.",
+          "logo": "img/logos/aircraft-spruce-logo.jpg",
+          "url": "https://www.aircraftspruce.com/"
+        },
+        {
+          "name": "FlyingEyes",
+          "note": "Summit XI: custom 5-in-1 pen, and three pairs of sunglasses (Cooper Aviator).",
+          "logo": "img/logos/flyingeyes-logo.png",
+          "url": "https://flyingeyesoptics.com/",
+          "darkTile": true
+        },
+        {
+          "name": "Inspector Tools",
+          "note": "Named as a raffle donor on the earlier sponsors-copy page, with the prize listed as TBD.",
+          "logo": "img/logos/inspectortools-logo.png",
+          "url": "https://www.inspectortools.com/"
+        },
+        {
+          "name": "Lift Aviation",
+          "note": "Named as a Summit XI raffle donor, with the prize listed as TBD.",
+          "logo": "img/logos/lift-logo1.jpg",
+          "url": "https://liftaviationusa.com/"
+        },
+        {
+          "name": "McFarlane Aviation",
+          "note": "Named as a raffle donor on the earlier sponsors-copy page, with the prize listed as TBD.",
+          "logo": "img/logos/mcfarlane-logo.png",
+          "url": "https://www.mcfarlaneaviation.com/"
+        },
+        {
+          "name": "Mooney Pros, Inc.",
+          "note": "Named as a Summit XI raffle donor, with the prize listed as TBD.",
+          "logo": "img/logos/mooney-pros-logo.png",
+          "url": "https://www.mooneypros.com/"
+        },
+        {
+          "name": "RPM Aircraft Service",
+          "note": "Summit XI: case of oil and oil filter.",
+          "logo": "img/logos/rpm-aircraft-service-logo.jpg",
+          "url": "https://www.flyrpm.com/"
+        },
+        {
+          "name": "Tempest",
+          "note": "Named as a raffle donor on the earlier sponsors-copy page, with the prize listed as TBD.",
+          "logo": "img/logos/tempest-logo.png",
+          "url": "https://aeroaccessories.com/"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "category": "Other donors",
+      "title": "Other donors and supporters",
+      "intro": "Supporters who appeared on the previous live site with a logo or a link, but were not named in the sponsor, silent auction, or raffle lists. Presidents' Club members are thanked on their own page.",
+      "layout": "tiles",
+      "empty": "No other donors are listed.",
+      "entries": [
+        {
+          "name": "Garmin",
+          "note": "Appeared on the previous live logo wall, linked to Garmin Aviation. Role was not stated in the page copy.",
+          "logo": "img/logos/garmin-logo.jpg",
+          "url": "https://www.garmin.com/en-US/c/aviation/"
+        },
+        {
+          "name": "True Life Wealth Management",
+          "note": "Appeared on the previous live logo wall, linked to truelifewealthmanagement.com. Role was not stated in the page copy. The live site showed the logo only, not this full name.",
+          "logo": "img/logos/true-life-logo.jpg",
+          "url": "https://truelifewealthmanagement.com/"
+        },
+        {
+          "name": "Presidents' Club members",
+          "note": "Individual donors of $1,000 or more are thanked on the Presidents' Club page. That list is not repeated here, and personal websites were not added.",
+          "url": "presidents-club.html"
+        }
+      ]
+    }
+  ]
+};
